@@ -7,5 +7,5 @@ def fact(a):
     #return n
 
 if __name__ == '__main__':
-    n=int(input("Enter the number to find factorial of"))
+    n=int(input("Enter the number to find factorial of"))#input here
     fact(n)
